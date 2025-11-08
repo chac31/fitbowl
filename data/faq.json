@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "question": "How many calories are in your bowls?",
+    "answer": "Our bowls range from 280 to 420 calories, depending on the size and ingredients. Each bowl's nutrition information is displayed on the menu. You can also customize your bowl to meet specific calorie goals."
+  },
+  {
+    "id": 2,
+    "question": "What sweeteners do you use?",
+    "answer": "We use only natural sweeteners—fresh fruits and organic honey. We never use refined sugars, artificial sweeteners, or high-fructose corn syrup. All sweetness comes from the natural fruits in your bowl."
+  },
+  {
+    "id": 3,
+    "question": "Are your bowls lactose-free?",
+    "answer": "Yes! All our bowls can be made lactose-free. We offer almond milk, coconut milk, and oat milk as dairy-free alternatives. Just let us know your preference when ordering."
+  },
+  {
+    "id": 4,
+    "question": "What protein options do you have?",
+    "answer": "We offer both plant-based protein (pea, hemp, or brown rice protein) and whey protein. You can add a protein boost to any bowl for an additional charge. The Peanut Protein bowl already includes protein."
+  },
+  {
+    "id": 5,
+    "question": "How do you handle gluten allergies?",
+    "answer": "Many of our bowls are naturally gluten-free. We use gluten-free granola and avoid cross-contamination. If you have a severe gluten allergy, please let us know when ordering so we can take extra precautions."
+  },
+  {
+    "id": 6,
+    "question": "What's your delivery area?",
+    "answer": "We currently deliver within a 5-mile radius of our location in San Francisco. Delivery is available Monday through Saturday, 8 AM to 8 PM. Orders typically arrive within 30-45 minutes."
+  }
+]
+

@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --yinmn-blue: #26547cff;
+  --bright-pink-crayola: #ef476fff;
+  --sunglow: #ffd166ff;
+  --emerald: #06d6a0ff;
+  --baby-powder: #fffcf9ff;
+
+  /* Semantic aliases */
+  --brand: var(--yinmn-blue);
+  --accent: var(--bright-pink-crayola);
+  --highlight: var(--sunglow);
+  --success: var(--emerald);
+  --bg: var(--baby-powder);
+
+  --text: #1a1a1a;
+  --card: #ffffff;
+  --muted: #4b5563; /* text only, not for backgrounds */
+  --border: color-mix(in oklab, var(--brand) 15%, #ffffff);
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+}
+
+@layer utilities {
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+
+  .animate-accordion-down {
+    animation: accordion-down 0.2s ease-out;
+  }
+
+  .animate-accordion-up {
+    animation: accordion-up 0.2s ease-out;
+  }
+}
+

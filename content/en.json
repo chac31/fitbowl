@@ -1,0 +1,85 @@
+{
+  "header": {
+    "logo": "Fit Bowl",
+    "nav": {
+      "home": "Home",
+      "menu": "Menu",
+      "nutrition": "Nutrition",
+      "reviews": "Reviews",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "cta": "Order Now"
+  },
+  "hero": {
+    "title": "FUEL YOUR DAY THE NATURAL WAY!",
+    "subtitle": "Deliciously Healthy Smoothie Bowls Delivered.",
+    "primaryCTA": "ORDER NOW",
+    "secondaryCTA": "View Menu"
+  },
+  "why": {
+    "title": "Why Fit Bowl",
+    "cards": [
+      {
+        "title": "Fresh Ingredients",
+        "description": "We use only the freshest fruits and natural ingredients, sourced daily for maximum flavor and nutrition."
+      },
+      {
+        "title": "High-Protein Options",
+        "description": "Boost your bowl with plant-based or whey protein to fuel your active lifestyle."
+      },
+      {
+        "title": "Vegan Friendly",
+        "description": "All our bowls can be made vegan with plant-based milk and protein options."
+      },
+      {
+        "title": "No Refined Sugar",
+        "description": "Sweetened naturally with fruits and honey—no artificial sweeteners or refined sugars."
+      }
+    ]
+  },
+  "signatureBowls": {
+    "title": "Signature Bowls",
+    "subtitle": "Our most popular combinations, crafted to perfection"
+  },
+  "buildYourBowl": {
+    "title": "Build Your Bowl",
+    "subtitle": "Create your perfect combination in 4 easy steps",
+    "steps": [
+      "Choose your base (acai, pitaya, or green smoothie)",
+      "Select your fruits (strawberry, mango, banana, and more)",
+      "Pick your liquid (almond, coconut, oat, or regular milk)",
+      "Add toppings (granola, seeds, nuts, fresh fruit)"
+    ],
+    "cta": "Start Your Order"
+  },
+  "nutrition": {
+    "title": "Nutrition & Sourcing",
+    "bullets": [
+      "Macro-balanced options: High protein, low sugar, or keto-friendly",
+      "Natural sweetening: Only fruits and organic honey—no refined sugars",
+      "Allergen transparency: Clear labeling for nuts, dairy, and gluten"
+    ],
+    "accordionTitle": "See full nutrition info"
+  },
+  "reviews": {
+    "title": "What Our Customers Say",
+    "rating": "4.9",
+    "count": "1,234"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "finalCTA": {
+    "title": "Ready to Fuel Your Day?",
+    "subtitle": "Order your perfect bowl now and get it delivered fresh",
+    "cta": "Order Now"
+  },
+  "footer": {
+    "address": "123 Health Street, San Francisco, CA 94102",
+    "hours": "Monday - Saturday: 8:00 AM - 8:00 PM",
+    "phone": "+1 (555) 012-3456",
+    "copyright": "© {year} Fit Bowl. All rights reserved."
+  }
+}
+

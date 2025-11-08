@@ -1,0 +1,69 @@
+[
+  {
+    "id": "berry-boost",
+    "name": "Berry Boost",
+    "description": "A vibrant blend of açai, strawberry, blueberry, and banana with almond milk. Topped with granola, chia seeds, and coconut flakes.",
+    "price": 12.99,
+    "calories": 320,
+    "protein_g": 8,
+    "sugar_g": 28,
+    "tags": ["Vegan", "High-Protein", "Low-Sugar"],
+    "image": "/images/berry-boost.png"
+  },
+  {
+    "id": "tropical-glow",
+    "name": "Tropical Glow",
+    "description": "Tropical paradise with mango, pineapple, banana, and coconut milk. Topped with toasted coconut, fresh kiwi, and hemp seeds.",
+    "price": 13.99,
+    "calories": 350,
+    "protein_g": 6,
+    "sugar_g": 32,
+    "tags": ["Vegan", "Gluten-Free"],
+    "image": "/images/tropical-glow.png"
+  },
+  {
+    "id": "green-power",
+    "name": "Green Power",
+    "description": "Nutrient-packed with spinach, avocado, apple, and banana in oat milk. Topped with pumpkin seeds and cacao nibs.",
+    "price": 11.99,
+    "calories": 280,
+    "protein_g": 10,
+    "sugar_g": 24,
+    "tags": ["Vegan", "High-Protein", "Low-Sugar"],
+    "image": "/images/green-power.png"
+  },
+  {
+    "id": "peanut-protein",
+    "name": "Peanut Protein",
+    "description": "Rich and satisfying with peanut butter, banana, cacao, and your choice of whey or plant protein. Topped with banana chips and peanuts.",
+    "price": 14.99,
+    "calories": 420,
+    "protein_g": 25,
+    "sugar_g": 22,
+    "tags": ["High-Protein", "Gluten-Free"],
+    "image": "/images/peanut-protein.png"
+  },
+  {
+    "id": "chocolate-dream",
+    "name": "Chocolate Dream",
+    "description": "Decadent cacao base with banana, dates, and almond milk. Topped with dark chocolate chips, almonds, and fresh berries.",
+    "price": 13.49,
+    "calories": 380,
+    "protein_g": 12,
+    "sugar_g": 30,
+    "tags": ["Vegan", "High-Protein"],
+    "image": "/images/chocolate-dream.png"
+  },
+  {
+    "id": "sunset-bowl",
+    "name": "Sunset Bowl",
+    "description": "Beautiful pitaya base with dragon fruit, mango, and passion fruit. Topped with edible flowers, goji berries, and coconut.",
+    "price": 14.49,
+    "calories": 310,
+    "protein_g": 7,
+    "sugar_g": 26,
+    "tags": ["Vegan", "Gluten-Free", "Low-Sugar"],
+    "image": "/images/sunset-bowl.png"
+  }
+]
+
