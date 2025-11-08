@@ -51,7 +51,7 @@ export function NutritionSourcing() {
                   </p>
                   <p>
                     For specific nutritional questions or allergen concerns,
-                    please contact us directly. We're happy to provide detailed
+                    please contact us directly. We&apos;re happy to provide detailed
                     ingredient lists and nutritional breakdowns for any bowl.
                   </p>
                 </div>
